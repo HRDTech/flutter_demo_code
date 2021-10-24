@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+# Pantallas
+
+<p align="center">
+  <img src="Display-1.png" width="350" />
+  <img src="Display-2.png" width="350" />
+</p>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
